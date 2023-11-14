@@ -1,0 +1,3 @@
+com\mycompany\database\Principal.class
+com\mycompany\database\Aluno.class
+com\mycompany\database\ConnectionFactory.class
